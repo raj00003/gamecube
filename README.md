@@ -1,7 +1,6 @@
 # Rubik's Cube
 
 A Rubik's Cube model built with in-browser rendering 3D graphics library [Three.js](https://threejs.org/). Extension of a [computer graphics course](https://www.students.cs.ubc.ca/~cs-314) assignment to a full-stack app.
-![image](https://github.com/user-attachments/assets/e0486889-1302-4c44-ac9f-89610e887de7)
 
 
 ## How to interact with the cube:
